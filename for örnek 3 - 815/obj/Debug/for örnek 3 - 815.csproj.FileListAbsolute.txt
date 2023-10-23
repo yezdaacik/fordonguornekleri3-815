@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\bin\Debug\for örnek 3 - 815.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\bin\Debug\for örnek 3 - 815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\bin\Debug\for örnek 3 - 815.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\obj\Debug\for örnek 3 - 815.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\obj\Debug\for örnek 3 - 815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\obj\Debug\for_örnek_3___815.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\obj\Debug\for_örnek_3___815.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\obj\Debug\for örnek 3 - 815.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\obj\Debug\for örnek 3 - 815.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\obj\Debug\for örnek 3 - 815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for örnek 3 - 815\for örnek 3 - 815\obj\Debug\for örnek 3 - 815.pdb
